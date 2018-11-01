@@ -1,0 +1,174 @@
+[33mcommit 3326e7a33842a8bfd2d89594b8ce9a52c493820e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Vũ Việt Anh <vietanhvu4298@gmail.com>
+Date:   Tue Sep 18 11:46:48 2018 +0700
+
+    Viet anh fix
+
+[33mcommit 3239a4f7be23d52a01cf792a4a7c4f039b77a390[m
+Author: Ha phu nguyen <phunguyen.2898@gmail.com>
+Date:   Tue Sep 18 10:00:54 2018 +0700
+
+    Nguyen commit
+
+[33mcommit ec121effcba3306c190bce6213bea4175b9b9817[m
+Author: Vũ Việt Anh <vietanhvu4298@gmail.com>
+Date:   Fri Sep 14 14:44:37 2018 +0700
+
+    Fix bug for view
+
+[33mcommit 7488decbafd3ccb27c432ca5521e4d232c8ff176[m
+Merge: dbc2c5c ce42cf6
+Author: Vũ Việt Anh <vietanhvu4298@gmail.com>
+Date:   Mon Sep 10 20:51:40 2018 +0700
+
+    Add View for Nguoi Nhap
+
+[33mcommit dbc2c5cffbeaa3beff316c73f87a7db8b5ff054a[m
+Author: Vũ Việt Anh <vietanhvu4298@gmail.com>
+Date:   Mon Sep 10 19:32:08 2018 +0700
+
+    Oke
+
+[33mcommit ce42cf6624bb9919382fe28f30439c5b3db17c74[m
+Author: Do Duc Vuong <n16dcat063@student.ptithcm.edu.vn>
+Date:   Mon Sep 10 14:13:41 2018 +0700
+
+    Add model
+
+[33mcommit 9ee03d12baddda7f9d4ae12fe3a70f85c4ac3910[m
+Author: Vũ Việt Anh <vietanhvu4298@gmail.com>
+Date:   Sun Sep 9 15:52:28 2018 +0700
+
+    Add Code for Connection to local database
+
+[33mcommit be6cf9597131c2e5a81067570af53d95a5fe78b8[m
+Author: Vũ Việt Anh <vietanhvu4298@gmail.com>
+Date:   Sat Sep 8 21:07:57 2018 +0700
+
+    Validation Form Dang Ky
+
+[33mcommit 99e866585d5292accfa1d81f83877789cd69359e[m
+Author: Vũ Việt Anh <vietanhvu4298@gmail.com>
+Date:   Sat Sep 8 13:55:37 2018 +0700
+
+    Fix bug
+
+[33mcommit e14f54962ac2ce7576e58420383f9b281bcc75f6[m
+Author: Vũ Việt Anh <vietanhvu4298@gmail.com>
+Date:   Sat Sep 8 13:51:24 2018 +0700
+
+    Add dialog for logout
+
+[33mcommit 91a745ceddf16b43fe35e64f84ecb239fb412ef4[m
+Author: Vũ Việt Anh <vietanhvu4298@gmail.com>
+Date:   Fri Sep 7 22:05:23 2018 +0700
+
+    Oke
+
+[33mcommit 55641a894e03f8bad587e1169a144f552baff47a[m
+Author: Vũ Việt Anh <vietanhvu4298@gmail.com>
+Date:   Fri Sep 7 21:59:52 2018 +0700
+
+    Subscribe Panel
+
+[33mcommit d9f8e48091ce490d7924284829a2bac521131441[m
+Author: Vũ Việt Anh <vietanhvu4298@gmail.com>
+Date:   Wed Sep 5 21:51:40 2018 +0700
+
+    Admin page + Login
+
+[33mcommit 3712a87d30eb49fd55132f654cbf81c77fba5149[m
+Author: Vũ Việt Anh <vietanhvu4298@gmail.com>
+Date:   Wed Sep 5 16:20:29 2018 +0700
+
+    Add new Panel for Subscribe
+
+[33mcommit 8bdecc4d6fb9e8616f58ad6d6de31d72f361fa1d[m
+Author: Vũ Việt Anh <vietanhvu4298@gmail.com>
+Date:   Wed Sep 5 15:09:41 2018 +0700
+
+    Login page
+
+[33mcommit 51f97db7b93d43f590740100e5786dcd39b14dde[m
+Author: Vũ Việt Anh <vietanhvu4298@gmail.com>
+Date:   Sun Sep 2 17:27:30 2018 +0700
+
+    Add table for View
+
+[33mcommit a3a6ae595cd6d2e6364cf1065a6ba9e513fa9615[m
+Author: Vũ Việt Anh <anh.vu@linkm.io>
+Date:   Fri Aug 24 11:12:48 2018 +0700
+
+    Add build project
+
+[33mcommit fcec460616eb211a3f81d84074a2b84ebc405f40[m
+Author: Vũ Việt Anh <anh.vu@linkm.io>
+Date:   Wed Aug 22 20:34:59 2018 +0700
+
+    New feature
+
+[33mcommit a34ed9d6e1d086bcaeb209138e1361dcc9c981cf[m
+Author: Vũ Việt Anh <anh.vu@linkm.io>
+Date:   Wed Aug 22 16:44:18 2018 +0700
+
+    Change View
+
+[33mcommit 4a4ce991d8ffadbd6f2e3badf0b5d5e6c875654c[m
+Author: Vũ Việt Anh <anh.vu@linkm.io>
+Date:   Wed Aug 22 11:35:48 2018 +0700
+
+    Change Views Properties
+
+[33mcommit 08cd61764645393daf28154dffaf3ad0755fe102[m
+Author: Vũ Việt Anh <anh.vu@linkm.io>
+Date:   Wed Aug 22 11:15:25 2018 +0700
+
+    MVC Construction
+
+[33mcommit f62b95df6a0c2d7f1cbad7c1f834b20983bf13fc[m
+Author: Vũ Việt Anh <anh.vu@linkm.io>
+Date:   Wed Aug 22 01:08:54 2018 +0700
+
+    Tái Cấu Trúc Dự Án
+
+[33mcommit aef4e54be0350a26d790e2fc5cd18057324f3d3b[m
+Author: Vũ Việt Anh <anh.vu@linkm.io>
+Date:   Tue Aug 21 18:17:23 2018 +0700
+
+    Format Code
+
+[33mcommit 1710e6e922a825f6c401b17665ea53f999479648[m
+Author: Vũ Việt Anh <anh.vu@linkm.io>
+Date:   Tue Aug 21 18:08:28 2018 +0700
+
+    Add model
+
+[33mcommit d8f112c02ac34946179462c5fb67ff3605ad05bc[m
+Author: Vũ Việt Anh <anh.vu@linkm.io>
+Date:   Tue Aug 21 18:01:35 2018 +0700
+
+    Add model
+
+[33mcommit eb446403d6336ba64d04b939d2bf7a742fe0eaa1[m
+Author: Vũ Việt Anh <anh.vu@linkm.io>
+Date:   Tue Aug 21 16:25:48 2018 +0700
+
+    Finish Today
+
+[33mcommit e90e4083d305ef3606c8523e51777090266bdd5a[m
+Author: Vũ Việt Anh <anh.vu@linkm.io>
+Date:   Tue Aug 21 15:30:00 2018 +0700
+
+    Create MVC Model
+
+[33mcommit 1be5d8dde7820f709ad65c9c47e230e00ced88fb[m
+Author: Vũ Việt Anh <anh.vu@linkm.io>
+Date:   Tue Aug 21 14:28:53 2018 +0700
+
+    Project construction
+
+[33mcommit 6475fc19411d275d7778946d3c430ae716ee2954[m
+Author: Anh Vu <anh.vu@linkm.io>
+Date:   Tue Aug 21 07:26:51 2018 +0000
+
+    Initial commit
